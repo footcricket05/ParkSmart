@@ -26,3 +26,10 @@ The Smart Parking System consists of multiple subsystems that adopt technologies
 
 ## Conclusion
 The Smart Parking System is an innovative solution that utilizes information and communication technologies to automate parking lots and provide unmanned services. This system has the potential to revolutionize the parking industry by providing real-time data on the availability of parking spaces and improving parking efficiency. The proposed system can be implemented in Smart Campuses to provide a hassle-free parking experience for students, staff, and visitors.
+
+### Usage
+To access the case study, simply download or open the PDF file located in the repository.
+
+
+### Contributing
+As this repository only contains a single PDF file, there is no scope for external contributions.
